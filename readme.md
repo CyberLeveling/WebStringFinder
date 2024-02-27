@@ -36,3 +36,5 @@ The tool's workflow is straightforward yet effective:
 - **File Handling:** Demonstrates robust file management, ensuring resources are properly managed.
 - **Concurrent Processing:** Showcases the use of goroutines, wait groups, and channels to efficiently process URLs in parallel, a core strength of Go.
 - **String Matching:** Employs byte comparison to search for target strings within web page content, flagging matches for further investigation.
+
+![webstringfinder](https://github.com/CyberLeveling/WebStringFinder/assets/159543582/e9fe6029-ed42-4251-a1d1-a4a0f8278974)
